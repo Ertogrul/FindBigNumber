@@ -1,0 +1,8 @@
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\MyProject3\MyProject3\bin\Debug\MyProject3.exe.config
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\MyProject3\MyProject3\bin\Debug\MyProject3.exe
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\MyProject3\MyProject3\bin\Debug\MyProject3.pdb
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\MyProject3\MyProject3\obj\Debug\MyProject3.csproj.AssemblyReference.cache
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\MyProject3\MyProject3\obj\Debug\MyProject3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\MyProject3\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\MyProject3\MyProject3\obj\Debug\MyProject3.exe
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\MyProject3\MyProject3\obj\Debug\MyProject3.pdb
